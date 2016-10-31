@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is simple Recipe website built using Ruby on rail, The Webiste has CRUD functionality with image updaload and User login and Logout
+
 
 Things you may want to cover:
 
-* Ruby version
+* Rails version - 5.0.0.1
 
-* System dependencies
+* Additional Gems - haml, simple-form, bootstrap-sass, paperclip, devise & cocoon
 
-* Configuration
+* Database - sqllite3
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* How to run the test suite - bundle install and migrate the database before running the server
 
 * ...
